@@ -1,6 +1,6 @@
 body{
-  background-color: royalblue;
-  color: steelblue;
+  background-color: steelblue;
+  color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -21,11 +21,11 @@ img{
    }
 a{
   text-decoration: none;
-  color: dodgerblue;
+  color: white;
   text-align: center;
 }
 a:hover{
-  color: blue;
+  color: white;
 }
 body.modo_escuro {
   background-color: black;
